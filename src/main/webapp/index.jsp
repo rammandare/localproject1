@@ -4,10 +4,10 @@
 </head>
 <body>
 <<<<<<< HEAD
-	<h1>Hello, 2 Welcome to my World!</h1>
+	<h1>Hello, Welcome to my World!</h1>
 =======
 	<h1>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</h1>
->>>>>>> 4 push
+>>>>>>> 1 push
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
