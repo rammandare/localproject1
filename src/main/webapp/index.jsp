@@ -6,7 +6,7 @@
 <<<<<<< HEAD
 	<h1>Hello, Welcome to my World!</h1>
 =======
-	<h1>date:10/MAY/2023<h1>
+	<h1>date:11/MAY/2023<h1>
 		<h1>Project.....1</h1>
 >>>>>>> 1 push
 	<p>
